@@ -1,5 +1,5 @@
 {
-    "name": "camroncade/timezone",
+    "name": "danyelsanches/timezone",
     "description": "Helps manage timezones in Laravel. Includes <select> form builder for timezones.",
     "homepage": "http://www.camroncade.com/managing-timezones-with-laravel/",
     "keywords": ["timezone", "timezones"],
